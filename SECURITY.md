@@ -10,5 +10,4 @@
 
 Use this section to tell people how to report a vulnerability.
 
-If you have found a bug, please make an issue.
 If you found a vulnerability, go to https://discord.gg/6aQpp8jyYY and read the channels.
