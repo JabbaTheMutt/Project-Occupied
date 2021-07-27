@@ -8,6 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
 If you found a vulnerability, go to https://discord.gg/6aQpp8jyYY and read the channels.
